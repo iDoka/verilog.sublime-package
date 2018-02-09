@@ -1,0 +1,9 @@
+= Verilog syntax for SublimeText =
+
+
+Adds to SublimeText Editor support for Verilog filetypes (*.v, *.vh, *.vp) and SystemVerilog files (*.sv, *.svh, *.svp)
+
+Based on code from: http://sublimetextinfo.sourceforge.net/pages/Verilog.html
+
+
+
