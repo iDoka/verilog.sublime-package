@@ -8,6 +8,10 @@
 		<array>
 			<string>sv</string>
 			<string>SV</string>
+                        <string>svh</string>
+                        <string>SVH</string>
+                        <string>svp</string>
+                        <string>SVP</string>
 		</array>
 		<key>foldingStartMarker</key>
 		<string>(begin)\s*(//.*)?$</string>
