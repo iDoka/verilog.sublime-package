@@ -5,5 +5,10 @@ Adds to SublimeText Editor support for Verilog filetypes (*.v, *.vh, *.vp) and S
 
 Based on code from: http://sublimetextinfo.sourceforge.net/pages/Verilog.html
 
+== Installation ==
+
+- wget https://github.com/iDoka/verilog.sublime-package.git
+- mv verilog.sublime-package/*.tmLanguage ~/.config/sublime-text-3/Packages/User/
+
 
 
